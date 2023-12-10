@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    -webkit-user-select: auto;
+    user-select: auto;
+    scrollbar-width: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+
+  button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
+
+button, input {
+    overflow: visible;
+}
+
+button, input {
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+    border: none;
+    background: none;
+    padding: 0;
+}
+
